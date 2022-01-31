@@ -1,0 +1,2294 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  height: 6572px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.home .footer-xl4bh6 {
+  background-color: transparent;
+  height: 312px;
+  left: 0px;
+  position: absolute;
+  top: 6260px;
+  width: 1500px;
+}
+
+.home .background-shape-peWZqm {
+  background-color: var(--mirage);
+  height: 312px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .subscription-peWZqm {
+  background-color: transparent;
+  height: 184px;
+  left: 878px;
+  position: absolute;
+  top: 64px;
+  width: 514px;
+}
+
+.home .input-1qxz9r {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 514px;
+}
+
+.home .button-yZE0u4 {
+  background-color: var(--primary1);
+  border-radius: 12px;
+  height: 64px;
+  left: 311px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 201px;
+}
+
+.home .button-text-n3wsif {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .background-yZE0u4 {
+  background-color: transparent;
+  border: 1px solid #ffffff26;
+  border-radius: 12px;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 512px;
+}
+
+.home .yourmailgmailcom-yZE0u4 {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: right;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .subscribe-to-get-latest-updates-and-news-1qxz9r {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_condensed-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.32px;
+  line-height: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 377px;
+}
+
+.home .connect-peWZqm {
+  background-color: transparent;
+  height: 60px;
+  left: 675px;
+  position: absolute;
+  top: 64px;
+  width: 90px;
+}
+
+.home .social-wrapper-zDsw8n {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 88px;
+}
+
+.home .connect-zDsw8n {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .links-column-peWZqm {
+  background-color: transparent;
+  height: 172px;
+  left: 537px;
+  position: absolute;
+  top: 64px;
+  width: 68px;
+}
+
+.home .links-list-eRPtWV {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 58px;
+}
+
+.home .blog-hop9Kw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  width: auto;
+}
+
+.home .events-hop9Kw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 76px;
+  width: auto;
+}
+
+.home .sermons-hop9Kw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: auto;
+}
+
+.home .about-us-hop9Kw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home .quicklinks-eRPtWV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .content-left-peWZqm {
+  background-color: transparent;
+  height: 176px;
+  left: 110px;
+  position: absolute;
+  top: 64px;
+  width: 167px;
+}
+
+.home .address-number-dWjT7S {
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 102px;
+  width: 139px;
+}
+
+.home .finsweetexamplecom-XOVVRG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+
+.home .x4517-washington-ave-XOVVRG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.home .x480-555-0103-XOVVRG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home .logo-dWjT7S {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 169px;
+}
+
+.home .vector-fQXJcW {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 167px;
+}
+
+.home .copyright-finsweet-2022-fQXJcW {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  width: auto;
+}
+
+.home .blog-posts-xl4bh6 {
+  background-color: transparent;
+  height: 530px;
+  left: 110px;
+  position: absolute;
+  top: 5602px;
+  width: 1280px;
+}
+
+.home .posts-mlkRgf {
+  background-color: transparent;
+  height: 367px;
+  left: 0px;
+  position: absolute;
+  top: 163px;
+  width: 1280px;
+}
+
+.home .item-jTgFxD {
+  background-color: transparent;
+  height: 367px;
+  left: 978px;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .background-HvVblk {
+  background-color: var(--light-orange);
+  height: 367px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .content-HvVblk {
+  background-color: transparent;
+  height: 271px;
+  left: 32px;
+  position: absolute;
+  top: 48px;
+  width: 248px;
+}
+
+.home .tuesday-13-may-2021-r5GJFX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.home .by-mathew-johnson-r5GJFX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: 150px;
+}
+
+.home .lorem-ipsum-dolor-si-r5GJFX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 238px;
+}
+
+.home .watch-and-listen-to-our-sermons-r5GJFX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 218px;
+}
+
+.home .relationship-r5GJFX {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 83px;
+}
+
+.home .item-T1zuHb {
+  background-color: transparent;
+  height: 367px;
+  left: 652px;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .background-JaxpWx {
+  background-color: var(--light-orange);
+  height: 367px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .content-JaxpWx {
+  background-color: transparent;
+  height: 271px;
+  left: 32px;
+  position: absolute;
+  top: 48px;
+  width: 248px;
+}
+
+.home .tuesday-13-may-2021-lexsts {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.home .by-mathew-johnson-lexsts {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: 150px;
+}
+
+.home .lorem-ipsum-dolor-si-lexsts {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 238px;
+}
+
+.home .watch-and-listen-to-our-sermons-lexsts {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 218px;
+}
+
+.home .relationship-lexsts {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 83px;
+}
+
+.home .item-APzNS5 {
+  background-color: transparent;
+  height: 367px;
+  left: 326px;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .background-Nj1fxE {
+  background-color: var(--light-orange);
+  height: 367px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .content-Nj1fxE {
+  background-color: transparent;
+  height: 271px;
+  left: 32px;
+  position: absolute;
+  top: 48px;
+  width: 248px;
+}
+
+.home .tuesday-13-may-2021-RgXgtx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.home .by-mathew-johnson-RgXgtx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: 150px;
+}
+
+.home .lorem-ipsum-dolor-si-RgXgtx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 238px;
+}
+
+.home .watch-and-listen-to-our-sermons-RgXgtx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 218px;
+}
+
+.home .relationship-RgXgtx {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 83px;
+}
+
+.home .item-G9LTCc {
+  background-color: transparent;
+  height: 367px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .background-4Vyv6I {
+  background-color: var(--light-orange);
+  height: 367px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .bottom-line-4Vyv6I {
+  background-color: #ffd0a0;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 351px;
+  width: 302px;
+}
+
+.home .content-4Vyv6I {
+  background-color: transparent;
+  height: 271px;
+  left: 32px;
+  position: absolute;
+  top: 48px;
+  width: 248px;
+}
+
+.home .tuesday-13-may-2021-xxzLsc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.home .by-mathew-johnson-xxzLsc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: 150px;
+}
+
+.home .lorem-ipsum-dolor-si-xxzLsc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 238px;
+}
+
+.home .watch-and-listen-to-our-sermons-xxzLsc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 218px;
+}
+
+.home .relationship-xxzLsc {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 83px;
+}
+
+.home .heading-mlkRgf {
+  background-color: transparent;
+  height: 99px;
+  left: 351px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.home .share-inspire-innovate-8Ul5gC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 576px;
+}
+
+.home .read-our-blog-8Ul5gC {
+  background-color: transparent;
+  height: auto;
+  left: 233px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 109px;
+}
+
+.home .cta-xl4bh6 {
+  background-color: transparent;
+  height: 736px;
+  left: 0px;
+  position: absolute;
+  top: 4738px;
+  width: 1500px;
+}
+
+.home .background-8ZPc3p {
+  background-color: transparent;
+  height: 736px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .httpswwwpexelscompho-5jM1Cp {
+  background-color: transparent;
+  height: 736px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .image-overlay-5jM1Cp {
+  background-color: transparent;
+  height: 736px;
+  left: 0px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .inner-8ZPc3p {
+  background-color: transparent;
+  height: 480px;
+  left: 366px;
+  position: absolute;
+  top: 128px;
+  width: 768px;
+}
+
+.home .testimonial-background-D8rCuD {
+  background-color: transparent;
+  height: 480px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.home .main-background-VBXXUy {
+  -webkit-backdrop-filter: blur(40px) brightness(100%);
+  backdrop-filter: blur(40px) brightness(100%);
+  background-color: var(--white);
+  height: 480px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.home .bottom-line-VBXXUy {
+  background-color: var(--primary1);
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 464px;
+  width: 768px;
+}
+
+.home .quote-icon-D8rCuD {
+  background-color: transparent;
+  height: 140px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 170px;
+  width: 187px;
+}
+
+.home .content-D8rCuD {
+  background-color: transparent;
+  height: 336px;
+  left: 48px;
+  position: absolute;
+  top: 72px;
+  width: 372px;
+}
+
+.home .button-6MM46K {
+  background-color: var(--primary1);
+  border-radius: 12px;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 272px;
+  width: 162px;
+}
+
+.home .button-text-QAc8m4 {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .we-want-to-serve-the-world-around-us-6MM46K {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 368px;
+}
+
+.home .lorem-ipsum-dolor-si-6MM46K {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  width: 302px;
+}
+
+.home .upcoming-sermons-xl4bh6 {
+  background-color: transparent;
+  height: 819px;
+  left: 110px;
+  position: absolute;
+  top: 3791px;
+  width: 1280px;
+}
+
+.home .link-R7j1KZ {
+  background-color: transparent;
+  height: 32px;
+  left: 1081px;
+  position: absolute;
+  top: 787px;
+  width: 201px;
+}
+
+.home .view-all-sermons-QcIcxN {
+  background-color: transparent;
+  color: var(--mirage);
+  font-family: var(--font-family-roboto_condensed-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .arrow-QcIcxN {
+  background-color: transparent;
+  height: 15px;
+  left: 174px;
+  position: absolute;
+  top: 10px;
+  width: 25px;
+}
+
+.home .item-R7j1KZ {
+  background-color: transparent;
+  height: 512px;
+  left: 0px;
+  position: absolute;
+  top: 227px;
+  width: 1280px;
+}
+
+.home .image-xtBHvO {
+  background-color: transparent;
+  height: 512px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 845px;
+}
+
+.home .httpswwwpexelscompho-hQgyi8 {
+  background-color: transparent;
+  height: 512px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 845px;
+}
+
+.home .content-xtBHvO {
+  background-color: transparent;
+  height: 512px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 435px;
+}
+
+.home .background-JH3xtl {
+  background-color: var(--light-orange);
+  height: 512px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 435px;
+}
+
+.home .info-JH3xtl {
+  background-color: transparent;
+  height: 390px;
+  left: 89px;
+  position: absolute;
+  top: 61px;
+  width: 256px;
+}
+
+.home .button-secondary-6ILSge {
+  -webkit-backdrop-filter: blur(80px) brightness(100%);
+  backdrop-filter: blur(80px) brightness(100%);
+  background-color: var(--mirage);
+  border-radius: 12px;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 326px;
+  width: 191px;
+}
+
+.home .button-text-LYbOv7 {
+  background-color: transparent;
+  color: var(--primary1);
+  font-family: var(--font-family-roboto_condensed-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .location-6ILSge {
+  background-color: transparent;
+  height: 48px;
+  left: 2px;
+  position: absolute;
+  top: 246px;
+  width: 222px;
+}
+
+.home .no-233-main-st-new-york-united-states-nSoNH3 {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 184px;
+}
+
+.home .icon-nSoNH3 {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.home .line-W3nDAo {
+  background-color: transparent;
+  height: 6px;
+  left: 8px;
+  position: absolute;
+  top: 19px;
+  width: 2px;
+}
+
+.home .circle-W3nDAo {
+  background-color: transparent;
+  border: 1.5px solid var(--mirage);
+  border-radius: 13px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.home .time-6ILSge {
+  background-color: transparent;
+  height: 48px;
+  left: 2px;
+  position: absolute;
+  top: 182px;
+  width: 175px;
+}
+
+.home .friday-2339-ist-saturday-1120-isd-GQNFQA {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 137px;
+}
+
+.home .clock-icon-GQNFQA {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.home .title-and-description-6ILSge {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 262px;
+}
+
+.home .lorem-ipsum-dolor-si-057xwT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: 256px;
+}
+
+.home .watch-and-listen-to-our-sermons-057xwT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 210px;
+}
+
+.home .up-coming-events-057xwT {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 101px;
+}
+
+.home .date-JH3xtl {
+  background-color: transparent;
+  height: 47px;
+  left: 371px;
+  position: absolute;
+  top: 32px;
+  width: 36px;
+}
+
+.home .x20-SjHpoL {
+  background-color: transparent;
+  height: auto;
+  left: 7px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home .july-SjHpoL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.home .heading-R7j1KZ {
+  background-color: transparent;
+  height: 163px;
+  left: 363px;
+  position: absolute;
+  top: 0px;
+  width: 558px;
+}
+
+.home .join-us-and-become-p-p3Zenw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 554px;
+}
+
+.home .upcoming-sermons-p3Zenw {
+  background-color: transparent;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home .benefits-of-our-church-xl4bh6 {
+  background-color: transparent;
+  height: 871px;
+  left: 0px;
+  position: absolute;
+  top: 2792px;
+  width: 1500px;
+}
+
+.home .background-DDdZWg {
+  background-color: var(--grey);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 1500px;
+}
+
+.home .list-DDdZWg {
+  background-color: transparent;
+  height: 384px;
+  left: 110px;
+  position: absolute;
+  top: 359px;
+  width: 1280px;
+}
+
+.home .item-PnVxdd {
+  background-color: transparent;
+  height: 384px;
+  left: 978px;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.home .httpswwwpexelscompho-TRExJM {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .overlay-TRExJM {
+  background-color: transparent;
+  height: 187px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 302px;
+}
+
+.home .watch-and-listen-to-our-sermons-TRExJM {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 238px;
+}
+
+.home .item-rLceEt {
+  background-color: transparent;
+  height: 384px;
+  left: 652px;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.home .httpswwwpexelscompho-VQFtrQ {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .overlay-VQFtrQ {
+  background-color: transparent;
+  height: 187px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 302px;
+}
+
+.home .watch-and-listen-to-our-sermons-VQFtrQ {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 238px;
+}
+
+.home .item-xlA2X5 {
+  background-color: transparent;
+  height: 384px;
+  left: 326px;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.home .httpswwwpexelscompho-0mxN4Y {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .overlay-0mxN4Y {
+  background-color: transparent;
+  height: 187px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 302px;
+}
+
+.home .watch-and-listen-to-our-sermons-0mxN4Y {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 238px;
+}
+
+.home .item-iN7V7K {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 306px;
+}
+
+.home .httpswwwpexelscompho-FVGMog {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+
+.home .overlay-FVGMog {
+  background-color: transparent;
+  height: 309px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75px;
+  width: 302px;
+}
+
+.home .lorem-ipsum-dolor-si-FVGMog {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: left;
+  top: 280px;
+  width: 238px;
+}
+
+.home .watch-and-listen-to-our-sermons-FVGMog {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  width: 238px;
+}
+
+.home .heading-DDdZWg {
+  background-color: transparent;
+  height: 167px;
+  left: 534px;
+  position: absolute;
+  top: 128px;
+  width: 436px;
+}
+
+.home .benefits-of-our-church-ZP11iw {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 432px;
+}
+
+.home .label-ZP11iw {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.home .welcome-xl4bh6 {
+  background-color: transparent;
+  height: 1122px;
+  left: 238px;
+  position: absolute;
+  top: 1542px;
+  width: 1024px;
+}
+
+.home .bottom-wrapper-PACBSh {
+  background-color: transparent;
+  height: 175px;
+  left: 253px;
+  position: absolute;
+  top: 947px;
+  width: 518px;
+}
+
+.home .read-more-PAInX2 {
+  background-color: transparent;
+  height: 16px;
+  left: 220px;
+  position: absolute;
+  top: 159px;
+  width: 94px;
+}
+
+.home .read-more-tMRiXy {
+  background-color: transparent;
+  color: #161722;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .shape-tMRiXy {
+  background-color: transparent;
+  height: 10px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+
+.home .lorem-ipsum-dolor-si-PAInX2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 512px;
+}
+
+.home .celebrate-withus-PAInX2 {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: -0.32px;
+  line-height: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .mission-vision-PAInX2 {
+  background-color: transparent;
+  height: auto;
+  left: 192px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.home .gallery-PACBSh {
+  background-color: transparent;
+  height: 576px;
+  left: 0px;
+  position: absolute;
+  top: 307px;
+  width: 1024px;
+}
+
+.home .httpswwwpexelscompho-3npGh4 {
+  background-color: transparent;
+  height: 384px;
+  left: 731px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.home .httpswwwpexelscompho-KAPxbX {
+  background-color: transparent;
+  height: 512px;
+  left: 317px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 390px;
+}
+
+.home .httpswwwpexelscompho-84dQU7 {
+  background-color: transparent;
+  height: 384px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.home .content-PACBSh {
+  background-color: transparent;
+  height: 323px;
+  left: 94px;
+  position: absolute;
+  top: 0px;
+  width: 848px;
+}
+
+.home .button-iTW5xJ {
+  background-color: var(--primary1);
+  border-radius: 12px;
+  height: 64px;
+  left: 316px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 259px;
+  width: 205px;
+}
+
+.home .button-text-RpxB2f {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .lorem-ipsum-dolor-si-iTW5xJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  opacity: 0.78;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  width: 846px;
+}
+
+.home .heading-iTW5xJ {
+  background-color: transparent;
+  height: 99px;
+  left: 151px;
+  position: absolute;
+  top: 0px;
+  width: 548px;
+}
+
+.home .love-and-compassion-k2TJsV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 544px;
+}
+
+.home .sub-headline-k2TJsV {
+  background-color: transparent;
+  height: auto;
+  left: 219px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.home .what-do-we-do-xl4bh6 {
+  background-color: transparent;
+  height: 543px;
+  left: 110px;
+  position: absolute;
+  top: 871px;
+  width: 1280px;
+}
+
+.home .list-SN1DXP {
+  background-color: transparent;
+  height: 380px;
+  left: 0px;
+  position: absolute;
+  top: 163px;
+  width: 1280px;
+}
+
+.home .item-mhUTJq {
+  background-color: transparent;
+  height: 380px;
+  left: 869px;
+  position: absolute;
+  top: 0px;
+  width: 411px;
+}
+
+.home .background-hxbdR0 {
+  background-color: var(--light-orange);
+  height: 380px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 411px;
+}
+
+.home .bottom-line-hxbdR0 {
+  background-color: var(--primary1);
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 364px;
+  width: 410px;
+}
+
+.home .text-hxbdR0 {
+  background-color: transparent;
+  height: 148px;
+  left: 80px;
+  position: absolute;
+  top: 152px;
+  width: 255px;
+}
+
+.home .lorem-ipsum-dolor-si-h2s71C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 251px;
+}
+
+.home .giving-back-h2s71C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.32px;
+  line-height: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .icon-hxbdR0 {
+  background-color: transparent;
+  height: 48px;
+  left: 80px;
+  position: absolute;
+  top: 80px;
+  width: 48px;
+}
+
+.home .shape-B6Upuw {
+  background-color: var(--primary1);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.home .icon-B6Upuw {
+  background-color: transparent;
+  height: 22px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 22px;
+}
+
+.home .item-Jw0WPn {
+  background-color: transparent;
+  height: 380px;
+  left: 435px;
+  position: absolute;
+  top: 0px;
+  width: 410px;
+}
+
+.home .background-ximsHW {
+  background-color: var(--light-orange);
+  height: 380px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 410px;
+}
+
+.home .bottom-line-ximsHW {
+  background-color: var(--primary1);
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 364px;
+  width: 410px;
+}
+
+.home .text-ximsHW {
+  background-color: transparent;
+  height: 148px;
+  left: 80px;
+  position: absolute;
+  top: 152px;
+  width: 255px;
+}
+
+.home .lorem-ipsum-dolor-si-ytbQrb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 251px;
+}
+
+.home .get-involved-ytbQrb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.32px;
+  line-height: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .icon-ximsHW {
+  background-color: transparent;
+  height: 48px;
+  left: 80px;
+  position: absolute;
+  top: 80px;
+  width: 48px;
+}
+
+.home .shape-ShjFAO {
+  background-color: var(--primary1);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.home .icon-ShjFAO {
+  background-color: transparent;
+  height: 26px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 26px;
+}
+
+.home .item-flVGZs {
+  background-color: transparent;
+  height: 380px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 411px;
+}
+
+.home .background-UnWtlL {
+  background-color: var(--light-orange);
+  height: 380px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 411px;
+}
+
+.home .bottom-line-UnWtlL {
+  background-color: var(--primary1);
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 364px;
+  width: 411px;
+}
+
+.home .text-UnWtlL {
+  background-color: transparent;
+  height: 148px;
+  left: 80px;
+  position: absolute;
+  top: 152px;
+  width: 255px;
+}
+
+.home .lorem-ipsum-dolor-si-gxLvBe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 251px;
+}
+
+.home .about-us-gxLvBe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.32px;
+  line-height: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .icon-UnWtlL {
+  background-color: transparent;
+  height: 48px;
+  left: 80px;
+  position: absolute;
+  top: 80px;
+  width: 48px;
+}
+
+.home .shape-ydGAvB {
+  background-color: var(--primary1);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.home .icon-ydGAvB {
+  background-color: transparent;
+  height: 24px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.home .heading-SN1DXP {
+  background-color: transparent;
+  height: 99px;
+  left: 358px;
+  position: absolute;
+  top: 0px;
+  width: 569px;
+}
+
+.home .heading-qjOkUj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.48px;
+  line-height: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .subtext-qjOkUj {
+  background-color: transparent;
+  height: auto;
+  left: 234px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.home .home-header-xl4bh6 {
+  background-color: transparent;
+  height: 663px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 1500px;
+}
+
+.home .image-9mxqID {
+  background-color: transparent;
+  height: 663px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .header-bottom-text-9mxqID {
+  background-color: transparent;
+  height: 48px;
+  left: 110px;
+  position: absolute;
+  top: 487px;
+  width: 340px;
+}
+
+.home .lorem-ipsum-dolor-si-HasW0r {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 308px;
+}
+
+.home .line-HasW0r {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.home .button-9mxqID {
+  background-color: var(--primary1);
+  border-radius: 12px;
+  height: 64px;
+  left: 110px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 359px;
+  width: 214px;
+}
+
+.home .button-text-dfyACA {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .heading-9mxqID {
+  background-color: transparent;
+  height: 199px;
+  left: 110px;
+  position: absolute;
+  top: 128px;
+  width: 596px;
+}
+
+.home .become-a-part-of-our-community-KQiDf3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_condensed-bold);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.64px;
+  line-height: 82px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 592px;
+}
+
+.home .welcome-to-our-church-KQiDf3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto_condensed-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 186px;
+}
+
+.home .navbar-xl4bh6 {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1500px;
+}
+
+.home .background-jiXCKq {
+  background-color: #0d0d0d;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 1500px;
+}
+
+.home .nav-button-jiXCKq {
+  -webkit-backdrop-filter: blur(80px) brightness(100%);
+  backdrop-filter: blur(80px) brightness(100%);
+  background-color: var(--primary1);
+  border-radius: 12px;
+  height: 56px;
+  left: 1210px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 180px;
+}
+
+.home .button-text-J4wo2u {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home .links-list-jiXCKq {
+  background-color: transparent;
+  height: 80px;
+  left: 308px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+
+.home .blog-vmbLrR {
+  background-color: transparent;
+  height: auto;
+  left: 371px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.home .sermon-vmbLrR {
+  background-color: transparent;
+  height: auto;
+  left: 266px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.home .about-us-vmbLrR {
+  background-color: transparent;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.home .home-vmbLrR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 31px;
+  width: auto;
+}
+
+.home .divider-vmbLrR {
+  background-color: transparent;
+  height: 80px;
+  left: -1px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.home .logo-jiXCKq {
+  background-color: transparent;
+  height: 32px;
+  left: 110px;
+  position: absolute;
+  top: 24px;
+  width: 134px;
+}
